@@ -26,7 +26,7 @@
 
 | Award | Competition / Platform | Host & Organizer | Key Role & Achievement |
 |:---:|---|---|---|
-| 🥇 **대 상** | **전국민 AI 경진대회**<br/>`AGENTIC PLAYER 10` | **주최 카카오(kakao)**<br/>후원 과학기술정보통신부 | **부총리 겸 과학기술정보통신부 장관상** (상금 1,000만 원)<br/>• 프로젝트: *개인적인 시작을, 함께 쓸 수 있는 서비스로*<br/>• 역할: **기능 시험 & 대화 설계** (프롬프트 엔지니어링, 작업 기록) |
+| 🥇 **대 상** | **전국민 AI 경진대회**<br/>`AGENTIC PLAYER 10` | **주최 카카오(kakao)**<br/>후원 과학기술정보통신부 | **부총리 겸 과학기술정보통신부 장관상** (상금 1,000만 원, 2026. 10)<br/>• 프로젝트: *개인적인 시작을, 함께 쓸 수 있는 서비스로*<br/>• 역할: **기능 시험·QA & 대화 설계** (디버깅, 프롬프트 엔지니어링, 워크플로우 검증) |
 | 🥉 **Bronze Medal** | **Kaggle Competition**<br/>`Kaggriculture` | **Kaggle** | **상위 5.4% 달성 (557th / 10,148 teams)**<br/>• Competition Bronze Medalist (2026. 10) |
 | 🥉 **Bronze x4** | **Kaggle Notebooks**<br/>공개 코드 부문 | **Kaggle** | **Kaggle Notebook Bronze Medals 4건 획득**<br/>• 머신러닝·데이터 전처리 및 분석 코드 공유 |
 
