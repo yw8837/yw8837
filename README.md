@@ -20,6 +20,22 @@
 
 <br/>
 
+### 🏆 Awards & Honors 🏆
+
+<br/>
+
+| Award | Competition / Platform | Host & Organizer | Key Role & Achievement |
+|:---:|---|---|---|
+| 🥇 **대 상** | **전국민 AI 경진대회**<br/>`AGENTIC PLAYER 10` | **주최 카카오(kakao)**<br/>후원 과학기술정보통신부 | **부총리 겸 과학기술정보통신부 장관상** (상금 1,000만 원)<br/>• 프로젝트: *개인적인 시작을, 함께 쓸 수 있는 서비스로*<br/>• 역할: **기능 시험 & 대화 설계** (프롬프트 엔지니어링, 작업 기록) |
+| 🥉 **Bronze Medal** | **Kaggle Competition**<br/>`Kaggriculture` | **Kaggle** | **상위 5.4% 달성 (557th / 10,148 teams)**<br/>• Competition Bronze Medalist (2026. 10) |
+| 🥉 **Bronze x4** | **Kaggle Notebooks**<br/>공개 코드 부문 | **Kaggle** | **Kaggle Notebook Bronze Medals 4건 획득**<br/>• 머신러닝·데이터 전처리 및 분석 코드 공유 |
+
+<br/>
+
+#
+
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/yw8837/saas-work_manager"><img width="300" alt="saas-work_manager" src="https://github-stats-extended.vercel.app/api/pin?username=yw8837&repo=saas-work_manager&show_owner=true&description_lines_count=1&theme=gruvbox"/></a>
@@ -117,6 +133,7 @@
 ### 💡 About me 💡
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 
 <br/><br/>
