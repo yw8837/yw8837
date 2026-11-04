@@ -84,47 +84,13 @@
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-4B32C3?style=flat-square&logo=openai&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-#### Frontend & Web
+#### Core Frameworks & Tools
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-
-<br/>
-
-#### Backend & Database
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logoColor=white"/>
-
-<br/>
-
-#### Mobile & On-Device AI
-
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
-
-<br/>
-
-#### Collaboration & Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,sqlite,nextjs,react,tailwind,ts,js,androidstudio,kotlin,git,github,docker,notion,discord" />
+</a>
 
 <br/><br/>
 
@@ -133,11 +99,13 @@
 <br/>
 
 ### 💡 About me 💡
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="mailto:bsfire1237@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yw8837"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+<a href="https://instagram.com/yong_woo_37"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 </div>
