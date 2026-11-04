@@ -14,6 +14,8 @@
 
 <img height="150" src="https://github-stats-extended.vercel.app/api?username=yw8837&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=gruvbox"/>
 <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=yw8837&layout=compact&langs_count=6&hide_values=true&theme=gruvbox"/>
+<br/>
+<img height="150" src="https://streak-stats.demolab.com/?user=yw8837&theme=gruvbox"/>
 </div>
 
 #
