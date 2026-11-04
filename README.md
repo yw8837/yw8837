@@ -8,7 +8,7 @@
 
 <br/>
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fyw8837&label=yw8837+-+hits+&icon=github&color=%234caf50&message=&style=flat&tz=localtime)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyw8837&count_bg=%234CAF50&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
 
