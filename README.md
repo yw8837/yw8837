@@ -1,6 +1,6 @@
 <div align="center">
 
-### I'm currently Product Builder · Service Planner · AI Prototyper
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yongwoo%20Choi&fontSize=42&fontAlignY=38&desc=Product%20Builder%20%C2%B7%20AI%20Prototyper&descAlignY=62&descSize=18)
 
 <br/>
 
