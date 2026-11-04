@@ -89,7 +89,7 @@
 #### Core Frameworks & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,sqlite,nextjs,react,tailwind,ts,js,androidstudio,kotlin,git,github,docker,notion,discord" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,sqlite,nextjs,react,tailwind,ts,js,androidstudio,kotlin,git,github,docker,notion,discord&perline=9" />
 </a>
 
 <br/><br/>
